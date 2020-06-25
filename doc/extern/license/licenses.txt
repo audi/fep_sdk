@@ -1,0 +1,86 @@
+----------------------------------------------------------------------------------------------------
+FEP SDK (FEP Library, FEP Documentation, FEP Data Model and all other parts)
+----------------------------------------------------------------------------------------------------
+see aev_license.txt next to this file
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+FEP SDK Special User Agreement (Concerning NDDS License)
+----------------------------------------------------------------------------------------------------
+see  rti_ndds_license.txt of the FEP Participant Library
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+DDL
+----------------------------------------------------------------------------------------------------
+see MPL2.0.txt and used_licenses.txt 
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+A_Util
+----------------------------------------------------------------------------------------------------
+see ddl_adpl.txt next to this file and the following list:
+- [Clara 1.1.2](https://github.com/catchorg/Clara/tree/v1.1.2) ([License](3rdparty/clara/Clara-1.1.2/LICENSE.txt))
+- [current_function of Boost 1.64.0](http://www.boost.org/doc/libs/1_64_0/boost/current_function.hpp) ([License](3rdparty/boost/boost_1_64_0/boost/current_function.hpp))
+- [PCRE 8.39](https://sourceforge.net/projects/pcre/files/pcre/8.39/) ([License](3rdparty/pcre/pcre-8.39/LICENCE))
+- [pstdint 0.1.16.0](http://www.azillionmonkeys.com/qed/pstdint.h) ([License](3rdparty/pstdint/pstdint-0.1.16.0/pstdint.h) )
+- [pugixml 1.8](https://github.com/zeux/pugixml/tree/v1.8) ([License](3rdparty/pugixml/pugixml-1.8/readme.txt))
+- [TinyThread++ 1.1](http://tinythreadpp.bitsnbites.eu/) ([License](3rdparty/tinythread/TinyThread++-1.1/README.txt))
+- [uuid 1.6.2](http://www.ossp.org/pkg/lib/uuid/) ([License](3rdparty/uuid/uuid-1.6.2/license.txt))
+(If you experience any problems accessing one or more of these files please contact us per e-mail
+to aev.aupport@audi.de and we will provide you the file per e-mail.)
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+libjson (internally used by FEP Library)
+----------------------------------------------------------------------------------------------------
+Copyright 2010 Jonathan Wallace. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+	1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+	2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY JONATHAN WALLACE ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL JONATHAN WALLACE OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of Jonathan Wallace.
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+libbase64++ (used by libjson)
+----------------------------------------------------------------------------------------------------
+Copyright 2010 Jonathan Wallace. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+	1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+	2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY JONATHAN WALLACE ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL JONATHAN WALLACE OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of Jonathan Wallace.
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+mempool++ (used by libjson)
+----------------------------------------------------------------------------------------------------
+Copyright 2011 ninja9578@sourceforge.net. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY ninja9578@sourceforge.net ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL ninja9578@sourceforge.net OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of ninja9578@sourceforge.net.
+----------------------------------------------------------------------------------------------------
